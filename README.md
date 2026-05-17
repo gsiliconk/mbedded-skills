@@ -63,12 +63,6 @@ mbedded-skills/
         └── SKILL.md
 ```
 
-## 作者
-
-**赵炎坤 (ZHAO Yankun)** — [@gsiliconk](https://github.com/gsiliconk)
-
-嵌入式软件工程师（实习求职中），主攻 STM32 / GD32 / APM32。2025 全国大学生电子设计竞赛省一等奖。
-
 ## 许可证
 
 MIT
