@@ -33,21 +33,21 @@ Lightweight callback-registration pattern for event-driven embedded C.
 ### Hermes
 
 ```bash
-hermes skills install https://raw.githubusercontent.com/gsiliconk/embedded-skills/main/skills/embedded-oop-architecture/SKILL.md
-hermes skills install https://raw.githubusercontent.com/gsiliconk/embedded-skills/main/skills/embedded-fnptr-register/SKILL.md
+hermes skills install https://raw.githubusercontent.com/gsiliconk/mbedded-skills/main/skills/embedded-oop-architecture/SKILL.md
+hermes skills install https://raw.githubusercontent.com/gsiliconk/mbedded-skills/main/skills/embedded-fnptr-register/SKILL.md
 ```
 
 ### Claude Code
 
 Tell Claude:
 
-> "Install these skills from https://github.com/gsiliconk/embedded-skills — save them as project rules."
+> "Install these skills from https://github.com/gsiliconk/mbedded-skills — save them as project rules."
 
 ### Codex CLI
 
 Tell Codex:
 
-> "Read and apply the skills from https://github.com/gsiliconk/embedded-skills"
+> "Read and apply the skills from https://github.com/gsiliconk/mbedded-skills"
 
 ---
 
