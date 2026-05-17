@@ -65,4 +65,4 @@ mbedded-skills/
 
 ## 许可证
 
-MIT
+本仓库所有 skill 文件采用 [MIT License](./LICENSE)。
