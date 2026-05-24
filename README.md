@@ -33,28 +33,28 @@ Interface → Adapter → Device → Board → App
 ### Hermes
 
 ```bash
-hermes skills install https://raw.githubusercontent.com/gsiliconk/mbedded-skills/master/skills/embedded-oop-architecture/SKILL.md
-hermes skills install https://raw.githubusercontent.com/gsiliconk/mbedded-skills/master/skills/embedded-fnptr-register/SKILL.md
+hermes skills install https://raw.githubusercontent.com/gsiliconk/embedded-skills/master/skills/embedded-oop-architecture/SKILL.md
+hermes skills install https://raw.githubusercontent.com/gsiliconk/embedded-skills/master/skills/embedded-fnptr-register/SKILL.md
 ```
 
 ### Claude Code
 
 对 Claude 说：
 
-> "请安装这个 skill：读取并应用 https://github.com/gsiliconk/mbedded-skills 中的编码规范，保存到项目 CLAUDE.md 中。"
+> "请安装这个 skill：读取并应用 https://github.com/gsiliconk/embedded-skills 中的编码规范，安装这个skills"
 
 ### Codex CLI
 
 对 Codex 说：
 
-> "读取并应用 https://github.com/gsiliconk/mbedded-skills 中的 skills，本项目所有嵌入式代码遵循这些架构。"
+> "请安装这个 skill：读取并应用 https://github.com/gsiliconk/embedded-skills 中的编码规范，安装这个skills"
 
 ---
 
 ## 仓库结构
 
 ```
-mbedded-skills/
+embedded-skills/
 ├── README.md
 └── skills/
     ├── embedded-oop-architecture/
